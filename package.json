@@ -1,0 +1,11 @@
+{
+  "name": "examples",
+  "private": true,
+  "devDependencies": {
+    "@bcts/envelope": "^1.0.0-alpha.22",
+    "@types/bun": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5"
+  }
+}
